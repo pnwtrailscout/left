@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: pnw trail scout
+name: pnw trailscout
 url: https://pnwtrailscout.github.io
 description: Where the trails live
 twitter: pnwtrailscout
