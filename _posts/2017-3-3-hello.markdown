@@ -5,3 +5,5 @@ category: posts
 ---
 
 Just a first post
+
+nothing much
